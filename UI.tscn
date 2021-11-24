@@ -1,0 +1,19 @@
+[gd_scene format=2]
+
+[node name="Control" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 0.707108
+margin_right = 0.707153
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 460.0
+margin_top = 300.0
+margin_right = 540.0
+margin_bottom = 314.0
+rect_rotation = -1.29109
+text = "Hello World!"
+align = 1
