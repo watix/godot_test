@@ -1,6 +1,6 @@
 # Import cache
 .import/
-
+.vscode
 # Binaries
 bin/
 build/
